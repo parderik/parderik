@@ -8,7 +8,7 @@
   <img align="left" alt="Erika's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-I’m Erika Pardo, I’m Born in Bogotá, Colombia. I am a technologist in the Development of international markets, tech-savvy and, I have a deep love for the well-being of customers, brands, development of new technologies, and entrepreneurship. My native language is Spanish, I have a B2 level of English and I am currently learning French.
+I’m Erika Pardo, I’m Born in Bogotá, Colombia. I am a developer of international markets, tech-savvy and, I have a deep love for the well-being of customers, brands, development of new technologies, and entrepreneurship. My native language is Spanish, I have a B2 level of English and I am currently learning French.
 
 I believe in the power of communication to transform the world around us; in the earnestness of work, through languages and business, I like to help companies and people to develop good services and products and, help to found solutions in diary life.
 
