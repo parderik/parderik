@@ -29,8 +29,8 @@ I’m also a volunteer who loves education and communities. Very passionate and 
 
 📫 You can find me:
 -  [LinkedIn](https://www.linkedin.com/in/parderik/)
--  [Instagram](https://www.instagram.com/parderik/)
--  [Facebook](https://www.facebook.com/parderik/)
+-  [Instagram](https://www.instagram.com/conerikapardo/)
+
 
 
 -->
