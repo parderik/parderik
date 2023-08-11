@@ -5,7 +5,7 @@
 
 </a>
 <a href="https://www.linkedin.com/in/parderik/">
-  <img align="left" alt="Erika's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="Erika's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 I’m Erika Pardo, I’m Born in Bogotá, Colombia. I am a developer of international markets, tech-savvy and, I have a deep love for the well-being of customers, brands, development of new technologies, and entrepreneurship. My native language is Spanish, I have a B2 level of English and I am currently learning French.
