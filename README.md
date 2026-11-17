@@ -28,7 +28,7 @@ I’m also a volunteer who loves education and communities. Very passionate and 
 </a> 
 
 📫 You can find me:
--  [LinkedIn](https://www.linkedin.com/in/parderik/)
+-  [LinkedIn](https://www.linkedin.com/in/erikapardosa/)
 -  [Instagram](https://www.instagram.com/conerikapardo/)
 
 
