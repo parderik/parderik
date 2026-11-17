@@ -4,7 +4,7 @@
 !--
 
 </a>
-<a href="https://www.linkedin.com/in/parderik/">
+<a href="[https://www.linkedin.com/in/parderik/](https://www.linkedin.com/in/erikapardosa)">
   <img align="center" alt="Erika's LinkedIN" width="22px" src="(https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png)" />
 </a>
 
